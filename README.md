@@ -117,6 +117,6 @@ The analysis includes key financial and customer KPIs such as:
 # GitHub Repository Link:
 https://github.com/Mahanand4/Credit_Card_Financial_Analysis_PowerBI/edit/main/README.md
 
-## Submitted By
 
-Mahanand B Shetty
+
+
